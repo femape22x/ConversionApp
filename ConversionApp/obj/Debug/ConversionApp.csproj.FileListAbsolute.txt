@@ -1,0 +1,9 @@
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\bin\Debug\ConversionApp.exe.config
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\bin\Debug\ConversionApp.exe
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\bin\Debug\ConversionApp.pdb
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\obj\Debug\ConversionApp.csprojResolveAssemblyReference.cache
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\obj\Debug\ConversionApp.Properties.Resources.resources
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\obj\Debug\ConversionApp.csproj.GenerateResource.Cache
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\obj\Debug\ConversionApp.exe
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\obj\Debug\ConversionApp.pdb
+c:\users\f3l1x\documents\visual studio 2015\Projects\ConversionApp\ConversionApp\obj\Debug\ConversionApp.Form.resources
